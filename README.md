@@ -1,3 +1,6 @@
+![Screenshot 2023-05-23 100536](https://github.com/DVISNAKO/SalaryApp-React/assets/106438454/d447586e-4090-4363-8603-c7f8d067bc4b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
