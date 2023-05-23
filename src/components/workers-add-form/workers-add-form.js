@@ -29,6 +29,7 @@ class WorkersAddForm extends Component {
     render () {
 
         const {name, salary,} = this.state;
+        const style = {color: 'red'};
 
         return (
             <div className="app-add-form">
@@ -50,7 +51,9 @@ class WorkersAddForm extends Component {
                         onChange={this.onValueChange}/>
     
                     <button type="submit"
-                            className="btn btn-outline-light">Добавить</button>
+                            className="btn btn-outline-light"
+                            style={style}
+                            >Добавить</button>
                 </form>
             </div>
         )
